@@ -1,2 +1,2 @@
 # DataBase-Practice
-learning MySQL and using github
+learning Database and using github
